@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/gameOverFragment">
+
+    <fragment
+        android:id="@+id/gameOverFragment"
+        android:name="com.example.spaceabuser.ui.game_over.GameOverFragment"
+        android:label="fragment_game_over"
+        tools:layout="@layout/fragment_game_over" />
+    <fragment
+        android:id="@+id/landedFragment"
+        android:name="com.example.spaceabuser.ui.landed.LandedFragment"
+        android:label="fragment_landed"
+        tools:layout="@layout/fragment_landed" />
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.spaceabuser.ui.main.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" />
+    <fragment
+        android:id="@+id/playFragment"
+        android:name="com.example.spaceabuser.ui.play.PlayFragment"
+        android:label="fragment_play"
+        tools:layout="@layout/fragment_play" />
+    <fragment
+        android:id="@+id/rateFragment"
+        android:name="com.example.spaceabuser.ui.rate.RateFragment"
+        android:label="fragment_rate"
+        tools:layout="@layout/fragment_rate" />
+    <fragment
+        android:id="@+id/settingFragment"
+        android:name="com.example.spaceabuser.ui.setting.SettingFragment"
+        android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />
+    <fragment
+        android:id="@+id/rulesFragment"
+        android:name="com.example.spaceabuser.ui.rules.RulesFragment"
+        android:label="fragment_rules"
+        tools:layout="@layout/fragment_rules" />
+</navigation>

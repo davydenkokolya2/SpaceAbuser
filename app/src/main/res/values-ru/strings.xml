@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpaceAbuser</string>
+    <string name="space_n_aviation">SPACE  AVIATION</string>
+    <string name="it_landed">ОНИ ПРИЗЕМЛИЛИСЬ</string>
+    <string name="setting">НАСТРОЙКИ</string>
+    <string name="on">ВКЛ</string>
+    <string name="off">ВЫКЛ</string>
+    <string name="eng">АНГ</string>
+    <string name="rus">РУС</string>
+    <string name="port">ПОРТ</string>
+    <string name="music">МУЗЫКА</string>
+    <string name="language">ЯЗЫК</string>
+    <string name="back">НАЗАД</string>
+    <string name="sound">ЗВУК</string>
+    <string name="shot_down_ships_555">УНИЧТОЖЕНО КОРАБЛЕЙ : </string>
+    <string name="bosses_555">БОСОВ : </string>
+    <string name="bonus_points_555">БОНУСНЫХ ОЧКОВ : </string>
+    <string name="you_re_shot_sown">ВЫ СБИТЫ</string>
+    <string name="frags_555">УБИЙСТВА : </string>
+    <string name="points_555">ОЧКИ : </string>
+    <string name="rules">ПРАВИЛА</string>
+    <string name="rules_text">Для начала игры необходимо нажать кнопку play. Чтобы посадить корабли необходимо 3 коробля выставить в один столбик.</string>
+</resources>

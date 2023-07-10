@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">SpaceAbuser</string>
+    <string name="space_n_aviation">SPACE  AVIATION</string>
+    <string name="it_landed">IT LANDED</string>
+    <string name="setting">SETTING</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="eng">ENG</string>
+    <string name="rus">RUS</string>
+    <string name="port">PORT</string>
+    <string name="music">MUSIC</string>
+    <string name="language">LANGUAGE</string>
+    <string name="back">BACK</string>
+    <string name="sound">SOUND</string>
+    <string name="shot_down_ships_555">Shot down ships : </string>
+    <string name="bosses_555">Bosses : </string>
+    <string name="bonus_points_555">Bonus points : </string>
+    <string name="you_re_shot_sown">YOU\'RE SHOT SOWN</string>
+    <string name="frags_555">FRAGS : </string>
+    <string name="points_555">POINTS : </string>
+    <string name="rules">RULES</string>
+    <string name="rules_text">To start the game, you must press the play button. To land ships, you need to put 3 ships in one column.</string>
 </resources>

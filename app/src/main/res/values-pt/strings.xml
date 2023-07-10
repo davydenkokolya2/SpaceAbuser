@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpaceAbuser</string>
+    <string name="space_n_aviation">SPACE  AVIATION</string>
+    <string name="it_landed">ATERROU</string>
+    <string name="setting">definições</string>
+    <string name="on">em</string>
+    <string name="off">des</string>
+    <string name="eng">ENG</string>
+    <string name="rus">RUS</string>
+    <string name="port">PORT</string>
+    <string name="music">Música</string>
+    <string name="language">língua</string>
+    <string name="back">VOLTAR</string>
+    <string name="sound">áudio</string>
+    <string name="shot_down_ships_555">Navios abatidos : </string>
+    <string name="bosses_555">Chefes : </string>
+    <string name="bonus_points_555">Pontos de bónus : </string>
+    <string name="you_re_shot_sown">é abatido</string>
+    <string name="frags_555">FRAGS : </string>
+    <string name="points_555">PONTOS : </string>
+    <string name="rules">REGRAS</string>
+    <string name="rules_text">Para iniciar o jogo, você deve pressionar o botão play. Para pousar navios, você precisa colocar 3 navios em uma coluna.</string>
+</resources>
